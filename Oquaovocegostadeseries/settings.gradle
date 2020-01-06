@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='O quao voce gosta de series'
